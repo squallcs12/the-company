@@ -1,2 +1,2 @@
 # the-company
-The outsourcing company model
+The tech company model
